@@ -1,0 +1,7 @@
+O crescente uso de programação orientada a objetos (POO) tem levado universidades de todo o mundo a adotarem Java como linguagem de programação nos cursos introdutórios de ciência da computação.
+
+Entretanto, a riqueza de detalhes de Java, podendo mesmo ser dito como excessiva, têm dificultado o aprendizado dos alunos mais inexperientes, que precisam dominar vários conceitos avançados, mesmo se for para fazer um exercício simples.
+
+Neste cenário, grupos em diversas partes do mundo tem procurado criar ferramentas e metodologias que facilitem a assimilação dos alunos iniciantes. Na disciplina de Introdução a Programação do curso regular de ciência da computação do Centro de Informática da UFPE, esta iniciativa foi transformada no projeto miniJava.
+
+O projeto miniJava é um conjunto de API's, ferramentas e modelo de programação simplificado, desenvolvido de forma a facilitar o aprendizado de programação. Apenas um subconjunto restrito de classes e funções deverão estar disponíveis. Utilizando recursos mais simples, os alunos iniciantes irão ter seu aprendizado muito mais facilitado, visto que terão acesso a recursos importantes, sem perder tempo com outras características que não são importantes, no ponto de vista conceitual.
